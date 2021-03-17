@@ -1,6 +1,6 @@
 # destini
 
-A new Flutter application.
+Game of choose a destiny(story to tell). It contains a new widget Visibility
 
 ## Getting Started
 
